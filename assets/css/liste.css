@@ -1,0 +1,19 @@
+/* Fichier : liste.css */
+
+/* Style de la liste à puces */
+#maListe {
+    list-style-type: disc; /* Type de puce */
+    margin-left: 20px; /* Marge à gauche pour l'alignement */
+  }
+  
+  /* Style des éléments de liste */
+  #maListe li {
+    margin-bottom: 10px; /* Marge inférieure entre les éléments */
+    color: #333; /* Couleur du texte */
+  }
+  
+  /* Style du titre */
+  h2 {
+    color: #666; /* Couleur du titre */
+  }
+  
